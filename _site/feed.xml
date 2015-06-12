@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emily Darrow&#39;s Portfolio</title>
+    <description>All the coolest stuff I&#39;ve ever done.
+</description>
+    <link>http://unarmed1618.github.io/</link>
+    <atom:link href="http://unarmed1618.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 03 Jun 2015 00:03:46 -0400</pubDate>
+    <lastBuildDate>Wed, 03 Jun 2015 00:03:46 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Creating the Jekyll</title>
+        <description>&lt;p&gt;Today I created this &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; site. It’s pretty awesome. I’m still learning all of the details of how it works, but I can fortunately modify and edit it via github, so I can in fact manage the site from anywhere.&lt;/p&gt;
+
+&lt;p&gt;I’m wondering if I can use jadelang to create these files. Markdown obviously works (this page) and Jekyll claims it can handle all sorts of things, but we’ll find out I suppose.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 02 Jun 2015 15:41:49 -0400</pubDate>
+        <link>http://unarmed1618.github.io/portfolio/blog/2015/06/02/creating-the-jekyll.html</link>
+        <guid isPermaLink="true">http://unarmed1618.github.io/portfolio/blog/2015/06/02/creating-the-jekyll.html</guid>
+        
+        
+        <category>portfolio</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
